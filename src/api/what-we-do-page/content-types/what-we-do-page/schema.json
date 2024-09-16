@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "what_we_do_pages",
+  "info": {
+    "singularName": "what-we-do-page",
+    "pluralName": "what-we-do-pages",
+    "displayName": "WhatWeDoPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "HeroSection": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.hero-section"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_shared_content_block2s",
+  "info": {
+    "displayName": "ContentBlock2"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
